@@ -1,0 +1,173 @@
+Datomic Free Edition License
+
+THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS LICENSE
+("LICENSE"). THE WORK ISÂ PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW.
+ANY USE OF THE WORK OTHER THAN AS AUTHORIZEDÂ UNDER THIS LICENSE OR COPYRIGHT
+LAW IS PROHIBITED.
+
+BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE
+BOUND BY THE TERMSÂ OF THIS LICENSE. TO THE EXTENT THIS LICENSE MAY BE
+CONSIDERED TO BE A CONTRACT, THE LICENSORÂ GRANTS YOU THE RIGHTS CONTAINED HERE
+IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS ANDÂ CONDITIONS.
+
+1. Definitions
+
+âApplicationâ means any work that makes use of an interface provided by the
+Work, but which isÂ not otherwise based on the Work. Defining a subclass of a
+class defined by the Work is deemed aÂ mode of using an interface provided by
+the Work.
+
+A âCombined Workâ is a work produced by combining or linking an Application
+with the Work.
+
+"Derivative Work" means a work, whether in Source or Object form, based upon
+the Work or upon theÂ Work and other pre-existing works in which the Work may
+be recast, transformed, or adapted. AnyÂ work, whether in Source or Object
+form, that is based on (or derived from) the Work and for whichÂ the editorial
+revisions, annotations, elaborations, or other modifications represent, as a
+whole,Â an original work of authorship is a âDerivative Workâ. For the
+purposes of this License,Â Derivative Works shall not include Combined Works.
+
+"Licensor" meansÂ Cognitect, Inc., a Delaware Corporation, which offers
+theÂ Work under the terms of this License.
+
+"Original Author" meansÂ Cognitect, Inc., a Delaware Corporation.
+
+"Work" means the copyrightable work of authorship offered under the terms of
+this License, theÂ Datomic Free Edition binary software.
+
+"You" means an individual or entity exercising rights under this License who
+has not previouslyÂ violated the terms of this License with respect to the
+Work, or who has received expressÂ permission from the Licensor to exercise
+rights under this License despite a previous violation.
+
+2. Fair Use Rights. â¨Â 
+
+Nothing in this license is intended to reduce, limit, or restrict anyÂ rights
+arising from fair use, first sale or other limitations on the exclusive rights
+of theÂ copyright owner under copyright law or other applicable laws.
+
+3. License Grant. â¨Â 
+
+Subject to the terms and conditions of this License, Licensor hereby
+grantsÂ You a worldwide, royalty-free, non-exclusive, perpetual (for the
+duration of the applicableÂ copyright) license to exercise the rights in the
+Work as stated below:
+
+(a) to reproduce the Work, to incorporate the Work into one or more Combined
+Works, (b) and toÂ reproduce the Work as incorporated in the Combined Works;
+(c) to distribute copies of the WorkÂ including as incorporated in Combined
+Works.
+
+The above rights may be exercised in all media and formats whether now known or
+hereafterÂ devised. The above rights include the right to make such
+modifications as are technicallyÂ necessary to exercise the rights in other
+media and formats, but otherwise you have no rights toÂ make Derivative Works.
+All rights not expressly granted by Licensor are hereby reserved.
+
+4. Restrictions.
+
+The license granted in Section 3 above is expressly made subject to and
+limitedÂ by the following restrictions:
+
+Â (a) You may distribute the Work only under the terms of this License, and You
+must include aÂ copy of, this License with every copy of the Work You
+distribute. You must keep intact allÂ notices that refer to this License and to
+the disclaimer of warranties. When You distribute theÂ Work You may not impose
+any technological measures on the Work that restrict the ability of
+aÂ recipient of the Work from You to exercise of the rights granted to that
+recipient under theÂ terms of the License. This Section 4(a) applies to the
+Work as incorporated in a Combined Work,Â but this does not require the
+Combined Work apart from the Work itself to be made subject to theÂ terms of
+this License. If You create a Combined Work, upon notice from any Licensor You
+must, toÂ the extent practicable, remove from the Combined Work any credit as
+required by Section 4(b), asÂ requested.
+
+(b) If You distribute the Work (as defined in Section 1 above) or any Combined
+Works (as definedÂ in Section 1 above), You must, unless a request has been
+made pursuant to Section 4(a), keepÂ intact all copyright notices for the Work
+and provide, reasonable to the medium or means You areÂ utilizing: (i) the name
+of the Original Author (or pseudonym, if applicable) if supplied, and/orÂ (ii)
+if the Original Author and/or Licensor designate another party or parties (e.g.
+a sponsorÂ institute, publishing entity, journal) for attribution ("Attribution
+Parties") in Licensor'sÂ copyright notice, terms of service or by other
+reasonable means, the name of such party orÂ parties; the title of the Work if
+supplied; to the extent reasonably practicable, the UniformÂ Resource
+Identifier, if any, that Licensor specifies to be associated with the Work,
+unless suchÂ URI does not refer to the copyright notice or licensing
+information for the Work. The creditÂ required by this Section 4(b) may be
+implemented in any reasonable manner; provided, however,Â that in the case of a
+Combined Work, at a minimum such credit will appear, if a credit for
+allÂ contributing authors of the Combined Work appears, then as part of these
+credits and in a mannerÂ at least as prominent as the credits for the other
+contributing authors. For the avoidance ofÂ doubt, You may only use the credit
+required by this Section for the purpose of attribution in theÂ manner set out
+above and, by exercising Your rights under this License, You may not implicitly
+orÂ explicitly assert or imply any connection with, sponsorship or endorsement
+by the OriginalÂ Author, Licensor and/or Attribution Parties, as appropriate,
+of You or Your use of the Work,Â without the separate, express prior written
+permission of the Original Author, Licensor and/orÂ Attribution Parties.
+
+5. Representations, Warranties and Disclaimer
+
+UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR OFFERS
+THE WORK AS-IS ANDÂ ONLY TO THE EXTENT OF ANY RIGHTS HELD IN THE LICENSED WORK
+BY THE LICENSOR. THE LICENSOR MAKES NOÂ REPRESENTATIONS OR WARRANTIES OF ANY
+KIND CONCERNING THE WORK, EXPRESS, IMPLIED, STATUTORY ORÂ OTHERWISE, INCLUDING,
+WITHOUT LIMITATION, WARRANTIES OF TITLE, MARKETABILITY,
+MERCHANTIBILITY,Â FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE
+ABSENCE OF LATENT OR OTHER DEFECTS,Â ACCURACY, OR THE PRESENCE OF ABSENCE OF
+ERRORS, WHETHER OR NOT DISCOVERABLE. SOME JURISDICTIONSÂ DO NOT ALLOW THE
+EXCLUSION OF IMPLIED WARRANTIES, SO SUCH EXCLUSION MAY NOT APPLY TO YOU.
+
+6. Limitation on Liability.â¨Â 
+
+EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, IN NO EVENT WILLÂ LICENSOR BE
+LIABLE TO YOU ON ANY LEGAL THEORY FOR ANY DAMAGES, INCLUDING DIRECT,
+INDIRECT,Â SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES
+ARISING OUT OF THIS LICENSE ORÂ THE USE OF or inability to use THE WORK
+(including but not limited to damages for loss ofÂ goodwill, work stoppage,
+computer failure or malfunction, or any and all other commercial damagesÂ or
+losses), EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+7. Termination
+
+This License and the rights granted hereunder will terminate automatically upon
+any breach by YouÂ of the terms of this License. Individuals or entities who
+have received Combined Works (asÂ defined in Section 1 above) from You under
+this License, however, will not have their licensesÂ terminated provided such
+individuals or entities remain in full compliance with those licenses.Sections
+1, 2, 5, 6, 7, and 8 will survive any termination of this License.
+
+Subject to the above terms and conditions, the license granted here is
+perpetual (for theÂ duration of the applicable copyright in the Work).
+Notwithstanding the above, Licensor reservesÂ the right to release the Work
+under different license terms or to stop distributing the Work atÂ any time;
+provided, however that any such election will not serve to withdraw this
+License (orÂ any other license that has been, or is required to be, granted
+under the terms of this License),Â and this License will continue in full force
+and effect unless terminated as stated above.
+
+8. Miscellaneous
+
+Each time You distribute or publicly digitally perform the Work (as defined in
+Section 1 above)Â or a Combined Work (as defined in Section 1 above), the
+Licensor offers to the recipient aÂ license to the Work on the same terms and
+conditions as the license granted to You under thisÂ License.
+
+If any provision of this License is invalid or unenforceable under applicable
+law, it shall notÂ affect the validity or enforceability of the remainder of
+the terms of this License, and withoutÂ further action by the parties to this
+agreement, such provision shall be reformed to the minimumÂ extent necessary to
+make such provision valid and enforceable. No term or provision of
+thisÂ License shall be deemed waived and no breach consented to unless such
+waiver or consent shall beÂ in writing and signed by the party to be charged
+with such waiver or consent.
+
+This License constitutes the entire agreement between the parties with respect
+to the WorkÂ licensed here. There are no understandings, agreements or
+representations with respect to theÂ Work not specified here. Licensor shall
+not be bound by any additional provisions that may appearÂ in any communication
+from You. This License may not be modified without the mutual
+writtenÂ agreement of the Licensor and You.
+
