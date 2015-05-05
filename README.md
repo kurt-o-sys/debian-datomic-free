@@ -1,8 +1,8 @@
 # debian-datomic-free-transactor 
 
-Docker image for running a datomic transactor. This image downloads the datomic free edition. Be sure to agree with the [https://my.datomic.com/datomic.com/datomic-free-edition-license.html](Datomic Free Edition License). 
+Docker image for running a datomic transactor. This image downloads the datomic free edition. Be sure to agree with the [Datomic Free Edition License](https://my.datomic.com/datomic.com/datomic-free-edition-license.html). 
 
-More information about the [http://www.datomic.com/pricing.html](Datomic pricing model) 
+More information about the [Datomic pricing model](http://www.datomic.com/pricing.html) 
 
 ## Usage
 
@@ -14,6 +14,6 @@ docker run -v ~/dev/docker/debian-datomic-free-transactor/:/opt/datomic/conf cd6
 
 Just for fun, I added some memory settings as well.
 
-Of course, you can use [https://docs.docker.com/userguide/dockervolumes/#creating-and-mounting-a-data-volume-container](Docker data volumes) as well.
+Of course, you can use [Docker data volumes](https://docs.docker.com/userguide/dockervolumes/#creating-and-mounting-a-data-volume-container) as well.
 
 The default datomic transactor port 4334 is exposed.
