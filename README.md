@@ -9,7 +9,7 @@ More information about the [Datomic pricing model](http://www.datomic.com/pricin
 The image starts the datomic free transactor. However, you still need to supply the transactor properties file. Datomic is installed in /opt/datomic in the container, and it starts from that directory. Mounting a volume to e.g. /opt/datomic/config is pretty straight forward. Make sure you got a valid transactor.properties (or however you call it) file in the mounted volume:
 
 ```
-docker run -v ~/dev/docker/debian-datomic-free-transactor/:/opt/datomic/conf cd65db9a0394 -Xms256m -Xmx512m conf/transactor.properties
+docker run -v [host-path]:/opt/datomic/conf simplexsys/debian-datomic-free-transactor -Xms256m -Xmx512m conf/transactor.properties
 ```
 
 Just for fun, I added some memory settings as well.
