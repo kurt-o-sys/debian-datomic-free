@@ -17,5 +17,5 @@ RUN echo Be sure you agree with the license of datomic free - see above
 
 WORKDIR "/opt/datomic/"
 
-ENTRYPOINT ["./bin/transactor"]
+ENTRYPOINT ["/opt/datomic/bin/transactor"]
 EXPOSE 4334
