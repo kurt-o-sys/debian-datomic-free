@@ -20,5 +20,5 @@ RUN echo "Be sure you agree with the license of datomic free - see above"
 VOLUME ["/etc/datomic", "/var/lib/datomic"]
 EXPOSE 4334
 
-WORKDIR /urs/share/datomic
+WORKDIR /usr/share/datomic
 ENTRYPOINT ["/usr/share/datomic/bin/transactor"]
