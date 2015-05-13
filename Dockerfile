@@ -18,7 +18,7 @@ RUN ln -s /usr/share/datomic-free-${DATOMIC_VERSION} /usr/share/datomic &&\
 RUN echo "Be sure you agree with the license of datomic free - see above"
 
 VOLUME ["/etc/datomic", "/var/lib/datomic"]
-EXPOSE 4334
+EXPOSE [4334, 4335, 4336]
 
 WORKDIR /usr/share/datomic
 ENTRYPOINT ["/usr/share/datomic/bin/transactor"]
