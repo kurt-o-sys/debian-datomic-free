@@ -45,3 +45,20 @@ docker run -v [host-config directory]:/etc/datomic -v [host-data directory]:/var
 ```
 
 Of course, the `-v` flags can be replaced by a [Docker data volume](https://docs.docker.com/userguide/dockervolumes/#creating-and-mounting-a-data-volume-container) using `volume-from`.
+
+## linking
+
+for linking with other containers: add `alt-host=datomicdb` to the properties file and link with `--link <name>:atomicdb` from calling container. In the calling container, atomicdb can be used as <host>.
+
+For example, running datomic transactor:
+```
+docker run -v <PATH-TO-CONFIG-FILES>/config:/etc/datomic --name datomicdb simplexsys/debian-datomic-free /etc/datomic/free-transactor-min.properties
+```
+Linking from another container, with a --uri parameter as input:
+```
+docker run --link datomicdb:datomicdb <some container id or name> --uri datomic:free://datomicdb:4334/mydb
+```
+
+
+
+
