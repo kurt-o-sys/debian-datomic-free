@@ -12,11 +12,12 @@ RUN (curl -L https://my.datomic.com/downloads/free/${DATOMIC_VERSION} -o /tmp/da
      rm /tmp/datomic-free.zip)
 RUN ln -s /usr/share/datomic-free-${DATOMIC_VERSION} /usr/share/datomic &&\
     ln -s /usr/share/datomic/bin/transactor /usr/bin/transactor &&\
-    ln -s /usr/share/datomic/conf /etc/datomic
+    ln -s /usr/share/datomic/conf /etc/datomic &&\
+    ln -s /usr/share/datomic/data /var/lib/datomic
 
 RUN echo "Be sure you agree with the license of datomic free - see above"
 
-VOLUME /etc/datomic
+VOLUME ["/etc/datomic", "/var/lib/datomic"]
 EXPOSE 4334
 
 WORKDIR /urs/share/datomic
